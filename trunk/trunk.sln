@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistantLands.Cozy.Runtime", "DistantLands.Cozy.Runtime.csproj", "{8b4d2faf-d35e-953a-2b47-f35e3ebaa0aa}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistantLands.Cozy.Editor", "DistantLands.Cozy.Editor.csproj", "{30edeb5c-1e27-312f-7b86-02496136a2a2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{edacc5c9-37af-51b2-9ac8-2374aadd4a08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{0e0bcb40-78cc-5017-9836-1f2d679b85f4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8b4d2faf-d35e-953a-2b47-f35e3ebaa0aa}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8b4d2faf-d35e-953a-2b47-f35e3ebaa0aa}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30edeb5c-1e27-312f-7b86-02496136a2a2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30edeb5c-1e27-312f-7b86-02496136a2a2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{edacc5c9-37af-51b2-9ac8-2374aadd4a08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{edacc5c9-37af-51b2-9ac8-2374aadd4a08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0e0bcb40-78cc-5017-9836-1f2d679b85f4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0e0bcb40-78cc-5017-9836-1f2d679b85f4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
