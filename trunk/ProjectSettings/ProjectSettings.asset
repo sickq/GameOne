@@ -810,7 +810,7 @@ PlayerSettings:
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
   scriptingDefineSymbols:
-    Standalone: COZY_WEATHER;COZY_3_AND_UP;COZY_URP
+    Standalone: COZY_WEATHER;COZY_3_AND_UP;COZY_URP;GRIFFIN_EDITOR_COROUTINES;GRIFFIN;GRIFFIN_2021;GRIFFIN_URP
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:

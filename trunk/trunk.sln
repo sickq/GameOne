@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YooAsset", "YooAsset.csproj", "{e2d6e8fb-2439-d19e-1d70-2059a9b525e0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinwheel.Polaris.Runtime", "Pinwheel.Polaris.Runtime.csproj", "{2e1d19c2-5f3a-c1a0-f6a2-479b68aa1967}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YooAsset.Editor", "YooAsset.Editor.csproj", "{f550ed2e-d5ca-4fdd-3f10-c76cfbdeedce}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinwheel.Polaris.Editor", "Pinwheel.Polaris.Editor.csproj", "{e1d49845-707e-1af4-d78c-62a6159f5353}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistantLands.Cozy.Runtime", "DistantLands.Cozy.Runtime.csproj", "{8b4d2faf-d35e-953a-2b47-f35e3ebaa0aa}"
 EndProject
@@ -20,8 +24,12 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{e2d6e8fb-2439-d19e-1d70-2059a9b525e0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{e2d6e8fb-2439-d19e-1d70-2059a9b525e0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2e1d19c2-5f3a-c1a0-f6a2-479b68aa1967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2e1d19c2-5f3a-c1a0-f6a2-479b68aa1967}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{f550ed2e-d5ca-4fdd-3f10-c76cfbdeedce}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{f550ed2e-d5ca-4fdd-3f10-c76cfbdeedce}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e1d49845-707e-1af4-d78c-62a6159f5353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e1d49845-707e-1af4-d78c-62a6159f5353}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8b4d2faf-d35e-953a-2b47-f35e3ebaa0aa}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8b4d2faf-d35e-953a-2b47-f35e3ebaa0aa}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30edeb5c-1e27-312f-7b86-02496136a2a2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
